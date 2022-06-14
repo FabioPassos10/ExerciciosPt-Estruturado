@@ -1,7 +1,6 @@
 Algoritmo "Exercicio-6"
 
-// Autor(a)    : Lavínia Bueno
-// Data atual  : 15/03/2022
+
 Var
 qtdSal,salMin, salUs: real
 
@@ -10,9 +9,9 @@ qtdSal,salMin, salUs: real
 
 Inicio
 salMin := 900
-Escreva ("Digite seu Salário atual: ")
+Escreva ("Digite seu Salï¿½rio atual: ")
 Leia(salUs)
 qtdSal := salUs / SalMin
-Escreva("O Usuario recebe um total de: ",qtdSal," Salários minimos")
+Escreva("O Usuario recebe um total de: ",qtdSal," Salï¿½rios minimos")
 
 Fimalgoritmo
